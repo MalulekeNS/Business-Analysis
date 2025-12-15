@@ -1,16 +1,23 @@
 Company Reports that determine investor readiness for funders to evaluate and make a funding decision: 
 
+Typically required by:
+
+- Development Finance Institutions (DFIs)
+- Private Equity & Venture Capital Funds
+- Corporate Investment Committees
+- Grant & Blended Finance Programmes
+
 ---
 
 # Business Analysis 
 
-<p align="">  
-  <img alt="Business Plan" src="https://img.shields.io/badge/Strategy-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>  
-  <img alt="Strategy" src="https://img.shields.io/badge/Business_Analysis-239120?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=101010"/>  
-  <img alt="Gap Analysis" src="https://img.shields.io/badge/Market_Research-F7DF1E?style=for-the-badge&logo=databricks&logoColor=black&labelColor=101010"/>  
-  <img alt="Growth" src="https://img.shields.io/badge/Governance-6DB33F?style=for-the-badge&logo=matrix&logoColor=white&labelColor=101010"/>  
-  <img alt="Market Research" src="https://img.shields.io/badge/Compliance-FF5733?style=for-the-badge&logo=security&logoColor=white&labelColor=101010"/>  
-</p>  
+<p align="">
+  <img alt="Funding Ready" src="https://img.shields.io/badge/Funding_Ready-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>
+  <img alt="Market Research" src="https://img.shields.io/badge/Due_Diligence-239120?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=101010"/>
+  <img alt="Investor Grade" src="https://img.shields.io/badge/Investor_Grade-6A1B9A?style=for-the-badge&logo=trustpilot&logoColor=white&labelColor=101010"/>
+  <img alt="Risk Assessed" src="https://img.shields.io/badge/Risk_Assessed-C62828?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=101010"/>
+  <img alt="Institutional Readiness" src="https://img.shields.io/badge/Institutional_Readiness-F7DF1E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010"/>
+</p>
 
 <table>
 <tr>

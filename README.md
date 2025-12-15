@@ -9,7 +9,7 @@ Typically required by:
 
 ---
 
-# Business Analysis
+# Documentation
 
 <p align="">
   <img alt="Funding Ready" src="https://img.shields.io/badge/Funding_Ready-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>

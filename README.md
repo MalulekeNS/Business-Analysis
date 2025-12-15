@@ -70,3 +70,41 @@ Typically required by:
 </p>  
 
 ---
+
+
+## 🧮 Funding Readiness Scorecard
+
+The Funding Readiness Scorecard provides an over view for the decision:
+
+### 📊 Assessment Domains
+
+| Domain | Focus Area | Readiness Indicator |
+|------|-----------|--------------------|
+| **Financial Readiness** | Budgeting, financial controls, projections, audit preparedness | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Governance & Leadership** | Board structure, decision authority, policies, accountability | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Operational Capacity** | SOPs, delivery consistency, scalability, performance tracking | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Market Position** | Demand validation, customers, traction, competitive positioning | 🔵 High / 🟡 Medium / 🔴 Low |
+| **IT & Digital Enablement** | Systems usage, data integrity, cybersecurity, automation | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Compliance & Legal** | Regulatory alignment, contracts, risk exposure | 🔵 High / 🟡 Medium / 🔴 Low |
+
+---
+
+### 🏦 Overall Funding Readiness Classification
+
+| Classification | Description |
+|---------------|------------|
+| **Funding Ready** | Institutionally sound, suitable for immediate funding consideration |
+| **Conditionally Ready** | Viable with targeted remediation actions |
+| **Not Funding Ready** | High institutional risk; requires material system development |
+
+---
+
+### 🔍 How the Scorecard Is Used
+
+- Supports **investment committee decision-making**
+- Identifies **institutional risk exposure**
+- Informs **Gap Analysis and Growth Plan priorities**
+- Aligns organisations with **DFI, bank, and investor expectations**
+
+The scorecard ensures funding decisions are based on **verifiable systems, not assumptions**.
+

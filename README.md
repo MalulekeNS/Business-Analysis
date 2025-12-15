@@ -1,3 +1,4 @@
+# 📊 Business Analysis
 Company Reports that determine investor readiness for funders to evaluate and make a funding decision: 
 
 Typically required by:
@@ -9,7 +10,7 @@ Typically required by:
 
 ---
 
-# Business Analysis 
+# Documentation
 
 <p align="">
   <img alt="Funding Ready" src="https://img.shields.io/badge/Funding_Ready-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>
@@ -78,12 +79,27 @@ The Funding Readiness Scorecard provides an over view for the decision:
 
 ---
 
-### 🔍 How the Scorecard Is Used
+### 📈 Portfolio Summary View
 
-- Supports **investment committee decision-making**
-- Identifies **institutional risk exposure**
-- Informs **Gap Analysis and Growth Plan priorities**
-- Aligns organisations with **DFI, bank, and investor expectations**
+| Company | Financial | Governance | Operations | Market | IT | Compliance | Overall Status |
+|-------|----------|------------|------------|--------|----|-----------|----------------|
+| Company A | 4 | 3 | 4 | 4 | 3 | 4 | Conditionally Ready |
+| Company B | 5 | 4 | 5 | 4 | 4 | 5 | Funding Ready |
+| Company C | 2 | 2 | 3 | 3 | 2 | 2 | Not Funding Ready |
+| Company D | 4 | 3 | 3 | 2 | 3 | 3 | Conditionally Ready |
 
-The scorecard ensures funding decisions are based on **verifiable systems, not assumptions**.
+---
+
+---
+
+### 🔍 Portfolio Use Cases
+- Capital allocation prioritisation
+- Risk diversification analysis
+- Pipeline development for DFIs and funds
+- Programme monitoring and reporting
+- Board and investment committee reporting
+
+> **Key Insight:**  
+> A strong portfolio balances **ready investments** with **pipeline opportunities**, while actively managing institutional risk.
+
 

@@ -2,7 +2,7 @@ Company Reports that determine investor readiness for funders to evaluate and ma
 
 Typically required by:
 
-- Development Finance Institutions (DFIs)
+- Finance Institutions (DFIs)
 - Private Equity & Venture Capital Funds
 - Corporate Investment Committees
 - Grant & Blended Finance Programmes

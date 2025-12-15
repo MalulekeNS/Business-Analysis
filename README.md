@@ -19,22 +19,7 @@ Typically required by:
   <img alt="Institutional Readiness" src="https://img.shields.io/badge/Institutional_Readiness-F7DF1E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010"/>
 </p>
 
-<table>
-<tr>
-<td valign="top">
 
-**From each Company or Client, we gather these documents:**  
-- Finance  
-- Governance  
-- Compliance  
-- Operational  
-- Technical  
-- Legal  
-
-</td>
-<td valign="top">
-
-**To produce the following documents:**  
 - Business Plan  
 - As Is  
 - Growth Plan  
@@ -46,9 +31,6 @@ Typically required by:
 - Financial Report  
 - Credit Rating Report  
 
-</td>
-</tr>
-</table>
 
 **<p align=""><b>The reports support funding readiness and investor confidence. </b></p>**  
 

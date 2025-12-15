@@ -1,4 +1,3 @@
-# 📊 Business Analysis
 Company Reports that determine investor readiness for funders to evaluate and make a funding decision: 
 
 Typically required by:
@@ -10,7 +9,7 @@ Typically required by:
 
 ---
 
-# Documentation
+# Business Analysis
 
 <p align="">
   <img alt="Funding Ready" src="https://img.shields.io/badge/Funding_Ready-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>
